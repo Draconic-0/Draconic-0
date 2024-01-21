@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Draconic-0/Draconic-0/blob/master/weball.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Draconic-0/Draconic-0/blob/master/weball.png">
-  <img alt="ohh my ass" src="https://github.com/Draconic-0/Draconic-0/blob/master/weball.png?raw=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Draconic-0/Draconic-0/blob/master/weball.png" width=420>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Draconic-0/Draconic-0/blob/master/weball.png" width=420>
+  <img alt="ohh my ass" src="https://github.com/Draconic-0/Draconic-0/blob/master/weball.png?raw=true" width=420>
 </picture>
 
 
