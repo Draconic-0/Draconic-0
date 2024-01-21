@@ -1,4 +1,7 @@
 ### Mostly sleeping occasionally come out of the gaps to write some code
+<picture>
+  <source srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+</picture>
 
 <!--
 **Draconic-0/Draconic-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
