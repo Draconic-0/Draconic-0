@@ -3,6 +3,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Draconic-0/Draconic-0/blob/master/weball.png">
   <img alt="ohh my ass" src="https://github.com/Draconic-0/Draconic-0/blob/master/weball.png?raw=true">
 </picture>
+| Tier | Language      |
+|-----:|---------------|
+|    SS|  Rust         |
+|     S|  C            |
+|    F-| Python        |
 
 <!--
 **Draconic-0/Draconic-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
