@@ -3,9 +3,9 @@
   <source src="https://github.com/Draconic-0/Draconic-0/blob/master/weball.png?raw=true">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://github.com/Draconic-0/Draconic-0/blob/master/weball.png?raw=true)">
-  <source media="(prefers-color-scheme: light)" srcset="[https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://github.com/Draconic-0/Draconic-0/blob/master/weball.png?raw=true)">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="[https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://github.com/Draconic-0/Draconic-0/blob/master/weball.png?raw=true)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Draconic-0/Draconic-0/blob/master/weball.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Draconic-0/Draconic-0/blob/master/weball.png">
+  <img alt="ohh my ass" src="https://github.com/Draconic-0/Draconic-0/blob/master/weball.png?raw=true">
 </picture>
 
 <!--
