@@ -1,6 +1,6 @@
 ### Mostly sleeping occasionally come out of the gaps to write some code
 <picture>
-  <source srcset="https://github.com/Draconic-0/Draconic-0/blob/master/weball.png?raw=true">
+  <source src="https://github.com/Draconic-0/Draconic-0/blob/master/weball.png?raw=true">
 </picture>
 
 <!--
