@@ -1,7 +1,3 @@
-### Mostly sleeping occasionally come out of the gaps to write some code
-<picture>
-  <source src="https://github.com/Draconic-0/Draconic-0/blob/master/weball.png?raw=true">
-</picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Draconic-0/Draconic-0/blob/master/weball.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Draconic-0/Draconic-0/blob/master/weball.png">
