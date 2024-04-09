@@ -9,7 +9,7 @@
 |-----:|---------------|
 |   SS  | Rust          |
 |   S   | C             |
-|   F-  | Python        |
+|   F-  | Python, Java  |
 
 <!--
 **Draconic-0/Draconic-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
