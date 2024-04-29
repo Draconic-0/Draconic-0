@@ -7,8 +7,8 @@
 
 | Tier | Language      |
 |-----:|---------------|
-|   SS  | Rust          |
-|   S   | C             |
+|   SS  | C             |
+|   S   | Rust          |
 |   F-  | Python, Java  |
 
 <!--
